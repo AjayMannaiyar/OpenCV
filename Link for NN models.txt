@@ -1,0 +1,3 @@
+POSE ESTIMATION  - https://www.dropbox.com/s/avgryw3yb17kkku/opencv_bootcamp_assets_NB13.zip?dl=1
+
+OBJECT DETECTION - https://www.dropbox.com/s/zkr87e7x9qsjumi/opencv_bootcamp_assets_NB14.zip?dl=1
